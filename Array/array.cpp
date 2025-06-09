@@ -65,7 +65,7 @@ int main(){
 
    int target = 5;
    int size = 5;
-   int arr[size]={1,7,3,4,5};
+   int arr[]={1,7,3,4,5};
 
    for(int i=0; i<size; i++){
        if(arr[i] == target){
